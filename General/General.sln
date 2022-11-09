@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General", "General\General.csproj", "{6CEEAF93-8B27-4776-B0DD-81B8E5D20C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoMain", "DoMain\DoMain.csproj", "{6599A91E-CFD7-421A-A08A-80A7137C6F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEEAF93-8B27-4776-B0DD-81B8E5D20C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEEAF93-8B27-4776-B0DD-81B8E5D20C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEEAF93-8B27-4776-B0DD-81B8E5D20C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEEAF93-8B27-4776-B0DD-81B8E5D20C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6599A91E-CFD7-421A-A08A-80A7137C6F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6599A91E-CFD7-421A-A08A-80A7137C6F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6599A91E-CFD7-421A-A08A-80A7137C6F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6599A91E-CFD7-421A-A08A-80A7137C6F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

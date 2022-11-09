@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="083ca929-4685-43d9-bef9-df8f29146d07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/General/.idea/.idea.General/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/.idea/.idea.General/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/.idea/.idea.General/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/.idea/.idea.General/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/Character.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/DoMain.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/Doctor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/Profile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/Reception.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/Timetable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/Debug/net6.0/DoMain.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/Debug/net6.0/DoMain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/Debug/net6.0/DoMain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/Debug/net6.0/DoMain.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/Debug/net6.0/DoMain.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/Debug/net6.0/DoMain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/DoMain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/DoMain.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/DoMain.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/DoMain/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/General.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/Debug/net6.0/General.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/Debug/net6.0/General.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/Debug/net6.0/General.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/Debug/net6.0/General.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/Debug/net6.0/General.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/Debug/net6.0/General.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/General.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/General.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/General.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/General/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJ6q76FSL37gYFjhKo1pP664Fi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="083ca929-4685-43d9-bef9-df8f29146d07" name="Changes" comment="" />
+      <created>1667991027392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667991027392</updated>
+      <workItem from="1667991034971" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
